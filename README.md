@@ -1,6 +1,3 @@
-# hw1-fundamental-c-concept-elukshin
-hw1-fundamental-c-concept-elukshin created by GitHub Classroom
-
-Emily Lukshin
-HW1 - Part 1
+Emily Lukshin 
+HW1 - part2 
 COSC 2030
